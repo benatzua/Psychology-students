@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import { BookingData } from '../types.ts';
-import { Button } from './Button.tsx';
+import { BookingData } from '../types';
+import { Button } from './Button';
 import { Lock, CreditCard, CheckCircle, ChevronLeft } from 'lucide-react';
 
 interface PaymentFormProps {

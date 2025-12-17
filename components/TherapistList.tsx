@@ -1,6 +1,6 @@
 import React from 'react';
-import { Therapist } from '../types.ts';
-import { Button } from './Button.tsx';
+import { Therapist } from '../types';
+import { Button } from './Button';
 import { GraduationCap, ArrowLeft } from 'lucide-react';
 
 interface TherapistListProps {
